@@ -11,3 +11,16 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+// google fonts
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&display=swap");
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h2 {
+  font-family: 'Krona One', sans-serif;
+}
